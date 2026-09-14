@@ -41,8 +41,8 @@ export default function SettingsScreen({ navigation }) {
       "Choose your preferred language",
       [
         { text: "English", onPress: () => changeLanguage('en') },
-        { text: "Urdu", onPress: () => changeLanguage('ur') },
-        { text: "Spanish", onPress: () => changeLanguage('es') },
+        { text: "Arabic", onPress: () => changeLanguage('ur') },
+        { text: "pashto", onPress: () => changeLanguage('es') },
         { text: "Cancel", style: "cancel" }
       ]
     );
