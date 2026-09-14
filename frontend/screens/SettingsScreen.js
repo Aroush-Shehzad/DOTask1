@@ -42,7 +42,7 @@ export default function SettingsScreen({ navigation }) {
       [
         { text: "English", onPress: () => changeLanguage('en') },
         { text: "Urdu", onPress: () => changeLanguage('ur') },
-        { text: "Spanish", onPress: () => changeLanguage('es') },
+        { text: "pashto", onPress: () => changeLanguage('es') },
         { text: "Cancel", style: "cancel" }
       ]
     );
