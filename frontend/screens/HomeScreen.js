@@ -19,7 +19,7 @@ export default function HomeScreen({ navigation }) {
   const courses = [
     { id: '1', name: "Mobile App Dev", icon: 'cellphone', category: 'Programming' },
     { id: '2', name: "Artificial Intelligence", icon: 'robot', category: 'AI' },
-    { id: '3', name: "Database Systems", icon: 'database', category: 'Tech' },
+    { id: '3', name: "Data Science", icon: 'database', category: 'Tech' },
     { id: '4', name: "Operating Systems", icon: 'microsoft-windows', category: 'Tech' },
     { id: '5', name: "HCI Design", icon: 'palette', category: 'Design' },
     { id: '6', name: "Data Science", icon: 'chart-line', category: 'Data' },
